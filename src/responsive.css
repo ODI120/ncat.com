@@ -1,0 +1,272 @@
+
+@media (max-width: 991px) {
+    /* section{
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+    } */
+    .right_header img{
+        display: none;
+    }
+    .hero_section{
+        text-align: center;
+    }
+    .line{
+        display: none;
+    }
+    .hero-intro p{
+        width:75%;
+        /* display: none; */
+    }
+    .hero-intro{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .top-space{
+        margin-top: 1rem;
+    }
+    .welcome-card h4{
+        margin-top: 16px;
+        font-size: larger;
+    }
+    .welcome-card br{
+        display: none;
+    }
+    .welcome-card span{
+        display: none;
+    }
+    .welcome-card .author{
+        display: none !important;
+    }
+    .welcome-card .btn{
+        display: none;
+        padding: 8px !important;
+    }
+    .welcome-card{
+        padding: 8px 8px 14px 8px !important;
+        border-radius: 16px !important;
+    }
+    .welcome-card p{
+        font-size: 14px;
+    }
+    .welcome-card img{
+        height: 150px !important;
+        border-radius: 8px !important;
+    }
+
+    .welcome-card-sm{
+        padding: 8px 8px 14px 8px !important;
+        gap: 21px;
+        border-radius: 16px !important;
+    }
+    .welcome-card-sm img{
+        border-radius: 8px !important;
+        height: 150px !important;
+    }
+    .welcome-card-sm .btn{
+        width: 100%;
+    }
+    .welcome-card-sm p{
+        font-size: 14px;
+    }
+    .welcome-card-sm h5{
+        font-size: larger;
+    }
+    /* .history-img{
+        display:none;
+    } */
+
+    .svg-long{
+        max-width: 75%;
+    }
+    .not_invisible{
+        display: none !important;
+    }
+    .not_visible{
+        display: block !important;
+    }
+}
+
+
+@media (max-width: 769px) {
+    .carousel{
+        width: 100% !important;
+        border-radius: 0px;
+    }
+    .carousel-inner img{
+        height: 200px ;
+        border-radius: 0px;
+    }
+    .carousel-inner p{
+        font-size: 14px;
+    }
+    .svg-long{
+        width: 80%;
+    }
+    ._hero img{
+        width: 300px !important;
+    }
+    ._hero {
+        padding-bottom:2rem !important;
+    }
+    .hero_section h1{
+        font-size: 22px ;
+    }
+    .ncat_inter{
+        flex-direction: column;
+    }
+    .svg-line{
+        display: none ;
+    }
+    .ncat_inter_img{
+        margin-top: 16px;
+    }
+    .component-img img{
+        border-radius: 16px !important;
+    }
+    section{
+        margin-top: 3.5rem !important;
+        margin-bottom: 8px !important;
+    }
+    .header{
+        margin-bottom: 28px !important;
+    }
+    .welcome-card-sm p{
+        line-height: 20px !important;
+    }
+    
+    .welcome-card p{
+        line-height: 20px !important;
+    }
+    .welcome-card-sm h5{
+        margin-bottom: 18px !important;
+    }
+    .welcome-card h4{
+        margin-bottom: 18px !important;
+    } 
+
+}
+@media (max-width: 768px) {
+    .dnt-display{
+        display: block !important;
+    }
+    ._visible{
+        display: block !important;
+    }
+    ._invisible{
+        display: none !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .hero_section h1{
+        font-size: 18px ;
+    }
+    ._hero {
+        padding-top: 2rem !important;
+        padding-bottom:1rem !important;
+    }
+    .component-img img{
+        border-radius: 8px !important;
+    }
+    .testimonial-card .card-text {
+        padding-left: 4px !important;
+        padding-right: 4px !important;
+        font-size: smaller !important;
+        line-height: 20px !important;
+    } 
+    .testimonial-card .card-body {
+        padding: 0px !important;
+    }
+}
+@media (max-width: 575px) {
+    ._hero img{
+        width: 200px !important;
+    }
+    .hero_section{
+        background: linear-gradient(180deg, #008DD2 0%, rgba(255, 255, 255, 0.00) 20%) !important;
+    }
+    .title{
+        width: 80%;
+        margin: auto;
+    }
+    .hero_section h1{
+        font-size: 22px ;
+        
+    }
+    .hero_section p{
+        font-size: 14px ;
+        width: 90%;
+    }
+
+    .icao{
+        width: auto !important;
+        height: 70px !important;
+        border: 4px !important;
+    }
+    
+    .ncaa{
+        width: auto !important;
+        height: 70px !important;
+        border: 4px !important;
+    }
+    .component-img .side_img{
+        display: none;
+    }
+    .component-img img{
+        width: 250px;
+        height: auto;
+        margin-top: 1.7rem !important;
+    }
+    .ncat_inter_img {
+        margin-top: 10px;
+    }
+
+}
+@media (max-width: 575px) {
+    section{
+        margin-top: 10rem ;
+        margin-bottom: 10rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .col-xsm{
+        width: 250px !important;
+    }
+    /* .justify-content-center{
+        display: flex !important;
+        justify-content: center !important;
+    } */
+}
+@media (max-width: 563px) {
+    section{
+        margin-top: 10rem ;
+        margin-bottom: 10rem;
+        padding-left: 14px !important;
+        padding-right: 14px !important;
+    }
+
+    .col-xsm{
+        width: 400px !important;
+    }
+
+    .school div .row{
+        /* display: flex !important;
+        flex-direction: row !important; */
+        flex-wrap: nowrap !important;
+    }
+}
+@media (max-width: 425px) {
+    .heritage-content, .legacy_content, .history-content{
+        gap: 8px !important;
+    }
+    .header{
+        padding: 0px !important;
+    }
+}
+@media (max-width: 375px) {
+    .hero_section h1{
+        font-size: 20px ;  
+    }
+}
