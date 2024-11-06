@@ -1,6 +1,6 @@
 // =============Custom Script for alumni 6 per page =============
 
-const itemsPerPage = 6;
+const itemsPerPage = 3;
 let currentPage = 1;
 const imageContainer = document.querySelector('.image-container');
 const images = Array.from(imageContainer.children);

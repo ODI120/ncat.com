@@ -81,18 +81,24 @@ $testimonial_result = $conn->query($testimonial_sql);
             </div>
 
             <div class="tab-content" >
-                <div class="stats tab active" id="dashboard">
-                    <div class="cards">
-                        <h3>Traction</h3>
-                        <p>5,340</p>
+                <div class=" tab active" id="dashboard">
+                    <div class="stats ">
+                        <div class="cards">
+                            <h3>Total Graduated</h3>
+                            <p>5,340</p>
+                        </div>
+                        <div class="cards">
+                            <h3>Current Stuednts</h3>
+                            <p>1,245</p>
+                        </div>
+                        <div class="cards">
+                            <h3>Courses / Programes</h3>
+                            <p>345</p>
+                        </div>
                     </div>
-                    <div class="cards">
-                        <h3>Traction</h3>
-                        <p>1,245</p>
-                    </div>
-                    <div class="cards">
-                        <h3>Traction</h3>
-                        <p>345</p>
+                    <div class="mt-5">
+                        <h4>Recently Added</h4>
+    
                     </div>
                 </div>
 
