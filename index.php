@@ -57,7 +57,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="index.html">Home</a>
+                        <a class="nav-link active" href="#">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#history">History</a>
@@ -614,7 +614,7 @@
     </section>
 
 
-    <section>
+    <section id="Alumni">
         <div class="container-xl expanded">
             <div class="header hidden">
                 <h1>Notable Alumni</h1>
