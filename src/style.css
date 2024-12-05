@@ -988,7 +988,8 @@ strong{
 /* ===============schools============= */
 
 .hero--section {
-    background: url('../NCAT/AIRFIELD\ SIGN\ &\ MARKINGS.jpg') no-repeat center center/cover;
+    /* background: url('../NCAT/AIRF/IELD\ SIGN\ &\ MARKINGS.jpg') no-repeat center center/cover; */
+    background: url('../facilities/AIRFIELD\ SIGN\ &\ MARKINGS.jpg') no-repeat center center/cover;
     background-blend-mode: overlay;
     background-color: var(--color-black);
     height: 50vh;
@@ -1033,9 +1034,14 @@ strong{
     border: none;
     margin-bottom: 30px;
     border-radius: 16px !important;
-    background-color: var(--color-background) !important;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: var(--color-white) !important;
     overflow: hidden;
+    padding: 16px;
+    height: 100% !important;
+}
+.feature-card:hover{
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    background-color: var(--color-background);
 }
 .feature-header{
     margin-top: 4rem;
@@ -1046,13 +1052,18 @@ strong{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
-
+.card-hold{
+    margin-bottom:16px;
+}
 .feature-card .card-body {
     padding: 20px;
+     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+     
 }
 
 .feature-card .card-title {
-    /* font-size: 1.5rem; */
     margin-bottom: 15px;
     font-weight: bold;
 }

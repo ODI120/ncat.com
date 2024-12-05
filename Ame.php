@@ -8,16 +8,16 @@
     <link rel="stylesheet" href="src/responsive.css">
     <link rel="stylesheet" href="src/bootstrap.css">
 
-    <title>Aeronautical Telecommunication Engineering school detail</title>
+    <title>Aeronautical Telecommunication Engineering school</title>
     <link rel="shortcut icon" href="image/favicon.ico.png" type="image/x-icon">
 
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-   
+ 
+
 </head>
 <body>
-
-     <!-- Navigation Bar -->
+    <!-- Navigation Bar -->
     <nav id="navbar" class="navbar navbar-expand-lg fixed-top _hidden">
         <div class="container nav">
                        
@@ -25,6 +25,7 @@
                 <img src="image/favicon.ico.png" alt="">
                 <a class="navbar-brand" href="index.php" id="logo">Nigerian College of <br>Aviation Technology</a>
             </div>
+
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class=""><i class="bi bi-list"></i></span>
@@ -39,10 +40,10 @@
                         <a class="nav-link " href="History.php">History</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="Ates.php">ATE School</a>
+                        <a class="nav-link " href="Ates.php">ATE School</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Ame.php">AME Schools</a>
+                        <a class="nav-link active" href="Ame.php">AME Schools</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="Ams.php">AMS School</a>
@@ -51,18 +52,16 @@
                         <a class="nav-link " href="flying.php">Flying School</a>
                     </li>
                 </ul>
-            </div>
+            </div>  
         </div>
     </nav>
 
-    
-
     <!-- Hero Section -->
-    <header class="hero--section">
-       <div class="animate__animated animate__zoomIn">
-            <h1><blockquote>Aeronautical</blockquote> Telecommunication Engineering School</h1>
+    <header class="hero--section ">
+        <div class="animate__animated animate__zoomIn">
+            <h1><blockquote>Aircraft</blockquote> Maintenance Engineering School</h1>
             <p><em>Explore all the ATE related courses here</em></p>
-       </div>
+        </div>
         <!-- <a href="#features" class="btn btn-primary">Join today</a> -->
     </header>
 
@@ -72,26 +71,26 @@
         <div class="container-xl expanded">
             <div class="row gy-4">
                 <div class="col-sm-12 col-md-12 col-lg-6 common ">
-                    <div class="legacy-img hidden">
-                        <img src="image/HATE.png"  alt="">
+                    <div class="legacy-img ">
+                        <img src="image/nig.jpeg"  alt="">
                         <div class="minister">
-                          <h6>Engr. Eward Yor/ Dean ATE School</h6>  
+                          <h6>Engr. Daniel Lawrence/ Dean AME School</h6>  
                         </div>
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-12 col-lg-6 common ">
-                    <div class="heritage-content About_ate hidden">
+                <div class="col-sm-12 col-md-12 col-lg-6 common">
+                    <div class="heritage-content About_ate">
                         <h6 class="mt-4">Celebrating <strong>NCAT @ 60</strong></h6>
-                       <h1>Aeronautical Telecommunication Engineering School.</h1>
+                       <h1>Aircraft Maintenance Engineering School.</h1>
 
-                        <p>The Aeronautical Telecommunication Engineering (ATE) School at NCAT is a hub of innovation and excellence, dedicated to training the next generation of aviation professionals. The school offers a comprehensive curriculum that covers the full spectrum of aeronautical telecommunications, preparing students for careers in this critical and dynamic field.
+                        <p>The Flying School at NCAT is the heart of the college, where aspiring pilots are transformed into highly skilled and competent aviators. For over six decades, the Flying School has been synonymous with excellence in flight training, producing graduates who are well-equipped to meet the challenges of the global aviation industry.
 
-                        <strong>Cutting-Edge Curriculum</strong>
+                        <strong>Comprehensive Pilot Training Programs</strong>
 
-                        The ATE School's curriculum is meticulously designed to provide students with a solid foundation in both the theoretical and practical aspects of aeronautical telecommunications. 
+                        The Flying School offers a range of pilot training programs designed to cater to the diverse needs of the aviation industry. Whether you are a beginner taking your first steps toward becoming a pilot or a seasoned aviator looking to advance your skills, the Flying School has a program tailored for you. 
                         </p>
-                        <!-- <a href="#" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a> -->
+                        
                     </div>
                 </div>
             </div>
@@ -100,56 +99,49 @@
         <div id="Dept." class="features-section">
             <div class="container">
                 <div class=" feature-header ">
-                    <h2>Departments in ATE School</h2>
+                    <h2>Departments in AME School</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-lg-4">
                         <div class="card feature-card">
-                            <img src="ateschl/radar.jpg" class="card-img-top" alt="Program 1">
+                            <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
-                                <h5 class="card-title">Radar Dept.</h5>
+                                <h5 class="card-title">Flight Operation Department</h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="card feature-card">
-                            <img src="ateschl/nav-aid.jpg" class="card-img-top" alt="Program 1">
+                            <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
-                                <h5 class="card-title">Navigation Aid Dept.</h5>
+                                <h5 class="card-title">Flight Training Department.</h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="card feature-card">
-                            <img src="ateschl/power.jpg" class="card-img-top" alt="Program 1">
+                            <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
-                                <h5 class="card-title">Power System Dept.</h5>
+                                <h5 class="card-title">Ground Studies Department</h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="card feature-card">
-                            <img src="ateschl/cem sat.jpg" class="card-img-top" alt="Program 1">
+                            <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
-                                <h5 class="card-title">Communication Equipment Mtce. Dept.</h5>
+                                <h5 class="card-title">Flight Simulator Department</h5>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card feature-card">
-                            <img src="ateschl/gec-2.jpg" class="card-img-top" alt="Program 1">
-                            <div class="card-body">
-                                <h5 class="card-title">General Electronice and computers Dept.</h5>
-                            </div>
-                        </div>
-                    </div>
+            
                 </div>
             </div>
         </div>
 
         <div class="container-xl   mt-4 mb-3 score_card">
-            <div class="header pt-4">
-                <h2>Aeronautical Telecommunications Engineering Courses</h2>
+        <div class="header pt-4">
+                <h2>Aircraft Maintenance Engineering Courses</h2>
                 <p>(Short Courses/programme)</p>
             </div>
 
@@ -165,152 +157,171 @@
                 <tbody>
                     <tr>
                         <th scope="row">1</th>
-                        <td>ATSEP</td>
-                        <td>Air Traffic Safety Electronic Personnel(ATSEP) Pre-License Course</td>
-                        <td>12 Weeks</td>
+                        <td>SAPP</td>
+                        <td>Aircraft Maintenance Engineering (Standard Airframe & Power plant)</td>
+                        <td>120 weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">2</th>
-                        <td> NAVAIDS EQUIPT MTCE</td>
-                        <td>NAVIGATION AIDS EQUIPT MTCE (Trainair Plus STP)</td>
-                        <td>2 Weeks</td>
+                        <td> AAPP</td>
+                        <td>Abridged Aircraft Maintenance Engineering (Airframe & power plant)</td>
+                        <td>90 weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
-                        <td >ANSM</td>
-                        <td >Air Navigation System Management Course</td>
-                        <td>2 Weeks</td>
+                        <td >AAME</td>
+                        <td >Abridged Aircraft Maintenance Engineering (Avionics)</td>
+                        <td>90 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">4</th>
-                        <td >TRAINAIR STP</td>
-                        <td >Alcatel DVOR Equipment Maintenance (Trainair STP)</td>
-                        <td>3 Weeks</td>
+                        <td >AWB</td>
+                        <td >Aircraft Wheels and Brake Course</td>
+                        <td >2 weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">5</th>
-                        <td >SRP</td>
-                        <td >Surveillance Radar Principle Course</td>
-                        <td>4 Weeks</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">7</th>
-                        <td >BAGL</td>
-                        <td >Basic Airfield Ground Lighting System Course</td>
-                        <td>3 Weeks</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">8</th>
-                        <td >AGL-M</td>
-                        <td >Airfield Ground Lighting System Maintenance Course</td>
-                        <td>3 Weeks</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">9</th>
-                        <td >APSS Mod 1</td>
-                        <td >Airport Power Supply System (Operation and Maintenance of Diesel Engine Generator)</td>
+                        <td >NDTI</td>
+                        <td >Non Destructive Testing & Inspection Course</td>
                         <td>2 Weeks</td>
                     </tr>
                     <tr>
+                        <th scope="row">7</th>
+                        <td >PMA</td>
+                        <td >Pressurized Metal Airframe Course</td>
+                        <td>6 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">8</th>
+                        <td >DRRC</td>
+                        <td >Direct and Remote Reading Compasses Course</td>
+                        <td>4 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">9</th>
+                        <td >AR</td>
+                        <td >Airborne Rdio Course</td>
+                        <td>7 Weeks</td>
+                    </tr>
+                    <tr>
                         <th scope="row">10</th>
-                        <td >ATED</td>
-                        <td >Aeronautical Telecommunication Engineering Diploma</td>
-                        <td>93 Weeks</td>
+                        <td >AFCS</td>
+                        <td >Automatic Flight Control System Course</td>
+                        <td>8 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">11</th>
-                        <td >APSS Mod 2</td>
-                        <td >Airport Power Supply System (Operation and Maintenance of UPS & Solar Power System)</td>
+                        <td >HFIAM</td>
+                        <td >Human Factors In Aircraft Maintenance Course</td>
                         <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">12</th>
-                        <td >PGD-ATSE </td>
-                        <td >Post Graduate Diploma in Air Traffic Safety Electronics</td>
-                        <td>52 Weeks</td>
+                        <td >MOR </td>
+                        <td >Maintenance Organization and Regulation Course</td>
+                        <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">13</th>
-                        <td >ATSEC </td>
-                        <td> Air Traffic Safety Electronics Concept</td>
-                        <td>8 Weeks</td>
+                        <td >GTE </td>
+                        <td> Gas Turbine Engine Course </td>
+                        <td>3 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">14</th>
-                        <td >CIMR </td>
-                        <td> Computer Installations, Maintenance and Repairs</td>
+                        <td >ABM </td>
+                        <td> Aircraft Battery Maintenance Course</td>
                         <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">15</th>
-                        <td >NET </td>
-                        <td> Computer Networking</td>
-                        <td>2 Weeks</td>
+                        <td >ASMR </td>
+                        <td> Aircraft Sheet Metal Repairs Course </td>
+                        <td>12 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">16</th>
-                        <td >DBMS</td>
-                        <td> Database Management System Using MS Access</td>
-                        <td>2 Weeks</td>
+                        <td >BTC</td>
+                        <td>Basic Technician Certificate</td>
+                        <td>24 Weeks</td>
                     </tr>
                     <tr>
-                        <th scope="row">17</th>
-                        <td >LINUX</td>
-                        <td> Linux Operating System</td>
-                        <td>2 Weeks</td>
+                        <th scope="row">17</th> 
+                        <td >LP</td>
+                        <td>Licence Preparation Course</td>
+                        <td>25 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">18</th>
-                        <td >THALES CVOR-E</td>
-                        <td> THALES CVOR EQUIPMENT MAINTENANCE</td>
-                        <td>3 Weeks</td>
+                        <td >STP</td>
+                        <td> TB-9 Line Inspection Course(STP)</td>
+                        <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">19</th>
-                        <td >THALES DME EQUIPT MTCE</td>
-                        <td> THALES DME EQUIPMENT MAINTENANCE</td>
+                        <td >HC</td>
+                        <td> Helicopter Conversion Course</td>
                         <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">20</th>
-                        <td >CNS DTI</td>
-                        <td> USE OF CNS DIAGNOSTICS/TEST INSTRUMENTS</td>
-                        <td>1 Weeks</td>
+                        <td >AF</td>
+                        <td> Aircraft Fuelling Course</td>
+                        <td>5 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">21</th>
-                        <td >NAVAIDS-P</td>
-                        <td> NAVIGATION AIDS PRINCIPLES</td>
+                        <td >AWB</td>
+                        <td> Aircraft Weight and Balance Course</td>
                         <td>5 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">22</th>
-                        <td >DME-P</td>
-                        <td> DME PRINCIPLES</td>
-                        <td>1 Weeks</td>
+                        <td >WMT-(MOCNC)</td>
+                        <td> Workshop Machine Tools Course (Manually Operated and Computer Numerically Contrelled)</td>
+                        <td>5 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">23</th>
-                        <td> FLT INS/CAL</td>
-                        <td> FLIGHT INSPECTION & CALIBERATION FOR TECHNICIANS</td>
-                        <td>3 Weeks</td>
+                        <td> ABMR</td>
+                        <td> Aircraft Battery Maintenance Refresher Course</td>
+                        <td>4 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">24</th>
-                        <td> ILS-R</td>
-                        <td> ILS/DME EQUIPMENT MAINTENANCE-REFRESHER</td>
-                        <td>1 Weeks</td>
+                        <td> AFCS</td>
+                        <td> Automatic Flight Control System Course</td>
+                        <td>3 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">25</th>
-                        <td> VOR-R</td>
-                        <td> VOR EQUIPMENT MAINTENANCE - REFRESHER</td>
-                        <td>I Weeks</td>
+                        <td> ASR</td>
+                        <td> Avionics System Refresher Course</td>
+                        <td>5 Weeks</td>
                     </tr>
+
+                    <tr>
+                        <th scope="row">26</th>
+                        <td>ASR </td>
+                        <td>Airframe System Refresher Course</td>
+                        <td>2 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">27</th>
+                        <td> ITCT</td>
+                        <td>Intermediate Technician Certificate Training</td>
+                        <td>2 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">28</th>
+                        <td>GEHOT</td>
+                        <td>Ground Equipment Handling Operation Training</td>
+                        <td>24 Weeks</td>
+                    </tr>
+
                 </tbody>
             </table>
         </div>
-
 
         <div id="features" class="features-section">
             <div class="container">
@@ -320,120 +331,41 @@
 
                 <div class="row">
                     
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
                             <img src="NCAT/ncat-ate.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
-                                <h5 class="card-title">ND Elect/Elect</h5>
+                                <h5 class="card-title">N.D Aircraft Maintenance Engineering </h5>
                                 <p class="card-text">Comprehensive training programs for aspiring pilots.</p>
                                 <a href="#" class="btn btn-general">Apply Now</a>
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-md-4">
+                    <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
                             <img src="NCAT/ncat-ate.jpg" class="card-img-top" alt="Program 2">
                             <div class="card-body">
-                                <h5 class="card-title">ATED</h5>
+                                <h5 class="card-title">HND Aircraft Maintenance Engineering (AIRFRAME AND POWERPLANT) </h5>
                                 <p class="card-text">Top-notch engineering courses for aviation professionals.</p>
                                 <a href="#" class="btn btn-general">Apply Now</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
                             <img src="NCAT/ncat-ate.jpg" class="card-img-top" alt="Program 3">
                             <div class="card-body">
-                                <h5 class="card-title">ATSEP</h5>
+                                <h5 class="card-title">HND Aircraft Maintenance  Engineering (AVIONICS)</h5>
                                 <p class="card-text">Leadership and management training for the aviation industry.</p>
                                 <a href="#" class="btn btn-general">Apply Now</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="card feature-card">
-                            <img src="NCAT/ncat-ate.jpg" class="card-img-top" alt="Program 3">
-                            <div class="card-body">
-                                <h5 class="card-title">CUSTOMIZED VSAT</h5>
-                                <p class="card-text">Leadership and management training for the aviation industry.</p>
-                                <a href="#" class="btn btn-general">Apply Now</a>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="facilities common" id="Alumni">
-        <div class="container-xl expanded">
-            <div class="header">
-                <h2>Aeronautical Telecommunication <br> Engineering school facilities</h2>
-            </div>
-
-            <div class="row common">
-                <div class="col-sm-12 col-md-12 col-lg-12 facilities-contents">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-12 col-lg-12 facilities-img">
-                            <div class="row image-container common">
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/1.jpg" class="" alt=""> 
-                                </div>
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/2.jpg" class="image-fluid" alt="">
-                                </div>
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/3.jpg" class="image-fluid" alt="">
-                                </div>
-
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/4.jpg" alt="">
-                                </div>
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/6.jpg" alt="">
-                                </div>
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/7.jpg" alt="">
-                                </div>
-
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/ATE school view.jpg" class="image-fluid" alt="">
-                                </div>
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/Ate-33.jpg" class="image-fluid" alt="">
-                                </div>
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/ateschl.jpg" class="image-fluid" alt="">
-                                </div>
-
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="ateschl/atesrefg.jpg" class="image-fluid" alt="">
-                                </div>
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="image/R.jpg" class="image-fluid" alt="">
-                                </div>
-                                <div class="col-sm- col-md-4 col-lg-3 gy-2">
-                                    <img src="image/R.jpg" class="image-fluid" alt="">
-                                </div>
-                                <!-- Add more images as needed -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="pagination-controls">
-                <button id="prev" class="btn btn-general" onclick="prevPage()">Previous</button>
-                <div class="pagination-info">
-                    Page <span id="currentPage">1</span> of <span id="totalPages">1</span>
-                </div>
-                <button id="next" class="btn btn-general" onclick="nextPage()">Next</button>
-            </div>
-            
-        </div>
-    </section>
-
-    
 
     <!-- Footer -->
     <footer class="footer-section">
@@ -492,9 +424,33 @@
         </div>
     </footer>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const navbar = document.getElementById('navbar');
+            const mobileMenu = document.getElementById('mobile-menu');
+            const navLinks = document.getElementById('navbarNav');
+            const logo = document.getElementById('logo');
+            let lastScrollTop = 0;
+        
+            window.addEventListener('scroll', function() {
+            let scrollTop = window.scrollY || document.documentElement.scrollTop;
+            if (scrollTop > lastScrollTop && scrollTop > 200) {
+                navbar.classList.add('visible');
+            } else {
+                navbar.classList.remove('visible');
+            }
+            lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For mobile or negative scrolling
+            });
+        
+            mobileMenu.addEventListener('click', function() {
+            navLinks.classList.toggle('show');
+            mobileMenu.querySelector('.navbar-toggler-icon').classList.toggle('active');
+            logo.classList.toggle('hidden');
+            });
+        });
+    </script>
 
     <script src="js/bootstrap.js"></script>
     <script src="js/mainscript.js"></script>
-    
 </body>
 </html>

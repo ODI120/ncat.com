@@ -352,8 +352,8 @@
                         <img src="NCAT/ncat-ate.jpg" alt=""> 
                         <div class="card-content">
                             <h5>A.T.E School.</h5>
-                            <p>Telecommunication Engineering School offers a specialized program ..</p>
-                            <a href="Ates.html" class="btn">Learn More</a>
+                            <p>Want to build the future of aviation tech? Join the cutting-edge of innovation!</p>
+                            <a href="Ates.php" class="btn">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -362,8 +362,8 @@
                         <img src="image/pilot.jpeg" alt=""> 
                         <div class="card-content">
                             <h5>Flying school</h5>
-                            <p>Discover the cutting-edge facilities that support aviation training!</p>
-                            <a href="flying.html" class="btn">Learn More</a>
+                            <p>Ready to pilot your dreams? Take off with expert training today!</p>
+                            <a href="flying.php" class="btn">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -372,8 +372,8 @@
                         <img src="NCAT/Ame.png" alt=""> 
                         <div class="card-content">
                             <h5>A.M.E School.</h5>
-                            <p>Discover the cutting-edge facilities that support aviation training.</p>
-                            <a href="Ames.html" class="btn">Learn More</a>
+                            <p>Gear up for a high-flying career in aircraft maintenance excellence.</p>
+                            <a href="Ames.php" class="btn">Learn More</a>
                         </div> 
                     </div>
                 </div>
@@ -383,7 +383,7 @@
                         <div class="card-content">
                             <h5>Aviation Mgmt schl.</h5>
                             <p>Are you ready to take flight in the exciting world of aviation management?</p>
-                            <a href="Ames.html" class="btn">Learn More</a>
+                            <a href="Ames.php" class="btn">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -392,8 +392,8 @@
                         <img src="NCAT/AUTOMATED FIRE_SMOKE AIRCRAFT TRAINING SIMULATOR.jpg" alt=""> 
                         <div class="card-content">
                             <h5>A.E.T School.</h5>
-                            <p>Discover the cutting-edge facilities that support aviation training.</p>
-                            <a href="Aet.html" class="btn">Learn More</a>
+                            <p>Prepared to handle the unexpected? Master the art of aviation safety with us.</p>
+                            <a href="Aet.php" class="btn">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -402,7 +402,7 @@
                         <img src="NCAT/ATSCOM_language laboratory.jpg" alt=""> 
                         <div class="card-content">
                             <h5>A.T.S / COM</h5>
-                            <p>Discover the cutting-edge facilities that support aviation training.</p>
+                            <p>Navigate the skies—become the voice that guides aviation safely.</p>
                             <a href="#" class="btn">Learn More</a>
                         </div>
                     </div>
@@ -570,7 +570,7 @@
             <div>
                 <div class="header hidden">
                     <h1>Graduations & Activities </h1>
-                    <p>What people are saying about us over the years</p>
+                    <p>Proud Moments and Vibrant Experiences</p>
                 </div>
             </div>
        

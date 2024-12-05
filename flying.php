@@ -23,7 +23,7 @@
                        
             <div class="logo">
                 <img src="image/favicon.ico.png" alt="">
-                <a class="navbar-brand" href="#" id="logo">Nigerian College of <br>Aviation Technology</a>
+                <a class="navbar-brand" href="index.php" id="logo">Nigerian College of <br>Aviation Technology</a>
             </div>
 
 
@@ -34,22 +34,22 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="History.html">History</a>
+                        <a class="nav-link " href="History.php">History</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="Ates.html">ATE School</a>
+                        <a class="nav-link " href="Ates.php">ATE School</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Ame.html">AME Schools</a>
+                        <a class="nav-link" href="Ame.php">AME Schools</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Ams.html">AMS School</a>
+                        <a class="nav-link" href="Ams.php">AMS School</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="flying.html">Flying School</a>
+                        <a class="nav-link active" href="flying.php">Flying School</a>
                     </li>
                 </ul>
             </div>  
