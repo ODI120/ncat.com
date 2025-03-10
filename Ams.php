@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="src/responsive.css">
     <link rel="stylesheet" href="src/bootstrap.css">
 
-    <title>Flying school detail</title>
+    <title>Aviation Management school</title>
     <link rel="shortcut icon" href="image/favicon.ico.png" type="image/x-icon">
 
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> -->
@@ -43,13 +43,19 @@
                         <a class="nav-link " href="Ates.php">ATE School</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Ame.php">AME Schools</a>
+                        <a class="nav-link " href="Ame.php">AME Schools</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Ams.php">AMS School</a>
+                        <a class="nav-link active" href="Ams.php">AMS School</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="flying.php">Flying School</a>
+                        <a class="nav-link " href="flying.php">Flying School</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="Ats.php">ATS/COM</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="Aet.php">AET Schl</a>
                     </li>
                 </ul>
             </div>  
@@ -58,8 +64,10 @@
 
     <!-- Hero Section -->
     <header class="hero--section ">
-        <h1 class="animate__animated animate__zoomInUp">Flying School</h1>
-        <p class="animate__animated animate__zoomInUp"><em>Let your Dream take flight</em></p>
+        <div class="animate__animated animate__zoomIn">
+            <h1><blockquote>Aviation Management school</blockquote></h1>
+            <p><em>Explore all the Aviation Management related courses here</em></p>
+        </div>
         <!-- <a href="#features" class="btn btn-primary">Join today</a> -->
     </header>
 
@@ -70,9 +78,9 @@
             <div class="row gy-4">
                 <div class="col-sm-12 col-md-12 col-lg-6 common ">
                     <div class="legacy-img ">
-                        <img src="image/hfs2.jpeg"  alt="">
+                        <img src="image/nig.jpeg"  alt="">
                         <div class="minister">
-                          <h6>Capt. Zego / Dean flying School</h6>  
+                          <h6>Isahaya Akaaba/ Dean AMS School</h6>  
                         </div>
                     </div>
                 </div>
@@ -80,29 +88,29 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 common">
                     <div class="heritage-content About_ate">
                         <h6 class="mt-4">Celebrating <strong>NCAT @ 60</strong></h6>
-                       <h1>Flying School.</h1>
+                       <h1>Aircraft Maintenance Engineering School.</h1>
 
-                        <p>The Flying School at NCAT is the heart of the college, where aspiring pilots are transformed into highly skilled and competent aviators. For over six decades, the Flying School has been synonymous with excellence in flight training, producing graduates who are well-equipped to meet the challenges of the global aviation industry.
+                        <p>The Aviation Management School at the Nigeria College of Aviation Technology (NCAT) is dedicated to developing skilled leaders and professionals who drive the global aviation industry. By combining technical expertise with management principles, the school equips students with the knowledge and skills necessary to excel in the operational, strategic, and administrative aspects of aviation.
 
-                        <strong>Comprehensive Pilot Training Programs</strong>
+                        <strong>A Foundation for Aviation Leadership</strong>
 
-                        The Flying School offers a range of pilot training programs designed to cater to the diverse needs of the aviation industry. Whether you are a beginner taking your first steps toward becoming a pilot or a seasoned aviator looking to advance your skills, the Flying School has a program tailored for you. 
+                        The Aviation Management School was established to meet the growing demand for professionals capable of managing the complexities of the aviation industry. With a curriculum designed to align with international standards, the school trains students to lead in areas such as airport operations, airline management, aviation safety, and regulatory compliance. 
                         </p>
-                        <!-- <a href="#" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a> -->
+                        
                     </div>
                 </div>
             </div>
         </div>
         <br>
         <div id="Dept." class="features-section">
-            <div class="container">
+            <!-- <div class="container">
                 <div class=" feature-header ">
-                    <h2>Departments in Flying School</h2>
+                    <h2>Departments in AME School</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
-                            <img src="facilities/aircraft-44.jpg" class="card-img-top" alt="Program 1">
+                            <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
                                 <h5 class="card-title">Flight Operation Department</h5>
                             </div>
@@ -110,7 +118,7 @@
                     </div>
                     <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
-                            <img src="facilities/aircraft.jpg" class="card-img-top" alt="Program 1">
+                            <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
                                 <h5 class="card-title">Flight Training Department.</h5>
                             </div>
@@ -118,7 +126,7 @@
                     </div>
                     <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
-                            <img src="facilities/1 NOS DIAMOND DA42NG AIRCRAFT.jpg" class="card-img-top" alt="Program 1">
+                            <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
                                 <h5 class="card-title">Ground Studies Department</h5>
                             </div>
@@ -126,28 +134,21 @@
                     </div>
                     <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
-                            <img src="facilities/737.jpg" class="card-img-top" alt="Program 1">
+                            <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
                                 <h5 class="card-title">Flight Simulator Department</h5>
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-md-4">
-                        <div class="card feature-card">
-                            <img src="dpt-img/gec-2.jpg" class="card-img-top" alt="Program 1">
-                            <div class="card-body">
-                                <h5 class="card-title">Department</h5>
-                            </div>
-                        </div>
-                    </div> -->
+            
                 </div>
-            </div>
+            </div> -->
         </div>
 
         <div class="container-xl   mt-4 mb-3 score_card">
-            <div class="header pt-4">
-                <h2>Flying School Courses</h2>
-                <p>(Courses/programme)</p>
+        <div class="header pt-4">
+                <h2>Aircraft Maintenance Engineering Courses</h2>
+                <p>(Short Courses/programme)</p>
             </div>
 
             <table class="table table-secondary schools-table table-hover table-striped table-bordered">
@@ -162,124 +163,176 @@
                 <tbody>
                     <tr>
                         <th scope="row">1</th>
-                        <td>SP</td>
-                        <td>Standard Pilot Course</td>
-                        <td>2 Years</td>
+                        <td>SAPP</td>
+                        <td>Aircraft Maintenance Engineering (Standard Airframe & Power plant)</td>
+                        <td>120 weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">2</th>
-                        <td> PPL</td>
-                        <td>Private Pilot Licence Course</td>
-                        <td>6 Months</td>
+                        <td> AAPP</td>
+                        <td>Abridged Aircraft Maintenance Engineering (Airframe & power plant)</td>
+                        <td>90 weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
-                        <td >IR </td>
-                        <td >Instrument Rating</td>
-                        <td>5 Months</td>
+                        <td >AAME</td>
+                        <td >Abridged Aircraft Maintenance Engineering (Avionics)</td>
+                        <td>90 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">4</th>
-                        <td >CPL</td>
-                        <td >Commercial Pilot Licence Course</td>
-                        <td>6 Months</td>
+                        <td >AWB</td>
+                        <td >Aircraft Wheels and Brake Course</td>
+                        <td >2 weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">5</th>
-                        <td >MER</td>
-                        <td >Multi-Engine Rating</td>
-                        <td>1 Months</td>
+                        <td >NDTI</td>
+                        <td >Non Destructive Testing & Inspection Course</td>
+                        <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">7</th>
-                        <td >NR</td>
-                        <td >Night Rating</td>
-                        <td>1 Weeks</td>
+                        <td >PMA</td>
+                        <td >Pressurized Metal Airframe Course</td>
+                        <td>6 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">8</th>
-                        <td >IR(sim)</td>
-                        <td >Instrument Renewal (Simulator)</td>
-                        <td>6 hours</td>
+                        <td >DRRC</td>
+                        <td >Direct and Remote Reading Compasses Course</td>
+                        <td>4 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">9</th>
-                        <td >IR</td>
-                        <td >Instrument Refresher (Simulator)</td>
-                        <td>15 Hours</td>
+                        <td >AR</td>
+                        <td >Airborne Rdio Course</td>
+                        <td>7 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">10</th>
-                        <td>SFO</td>
-                        <td>Standard Flight Operation Course</td>
-                        <td>15 Weeks</td>
+                        <td >AFCS</td>
+                        <td >Automatic Flight Control System Course</td>
+                        <td>8 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">11</th>
-                        <td >SFOR</td>
-                        <td >Standard Flight Operation Refresher Course</td>
+                        <td >HFIAM</td>
+                        <td >Human Factors In Aircraft Maintenance Course</td>
                         <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">12</th>
-                        <td >ADC </td>
-                        <td >Aircraft Dispatcher Currency</td>
-                        <td>1 Weeks</td>
+                        <td >MOR </td>
+                        <td >Maintenance Organization and Regulation Course</td>
+                        <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">13</th>
-                        <td >CCT-C </td>
-                        <td> Cabin Crew Initial Training-Ab Initio</td>
-                        <td>10 Days</td>
+                        <td >GTE </td>
+                        <td> Gas Turbine Engine Course </td>
+                        <td>3 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">14</th>
-                        <td> CCT-RQ </td>
-                        <td> Cabin Crew Conversion Course</td>
-                        <td> 4 Weeks</td>
+                        <td >ABM </td>
+                        <td> Aircraft Battery Maintenance Course</td>
+                        <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">15</th>
-                        <td >CCT-RC </td>
-                        <td> Cabin Crew Recurrent</td>
-                        <td>10 Days</td>
+                        <td >ASMR </td>
+                        <td> Aircraft Sheet Metal Repairs Course </td>
+                        <td>12 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">16</th>
-                        <td >CCT-RF</td>
-                        <td> Cabin Crew Refresher Course</td>
-                        <td>10 Days</td>
+                        <td >BTC</td>
+                        <td>Basic Technician Certificate</td>
+                        <td>24 Weeks</td>
                     </tr>
                     <tr>
-                        <th scope="row">17</th>
-                        <td >MCC</td>
-                        <td> Multi Crew Coordination (MCC)</td>
-                        <td>7 Days</td>
+                        <th scope="row">17</th> 
+                        <td >LP</td>
+                        <td>Licence Preparation Course</td>
+                        <td>25 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">18</th>
-                        <td >JOC</td>
-                        <td> Jet Orientation Course (JOC)</td>
-                        <td>7 Weeks</td>
+                        <td >STP</td>
+                        <td> TB-9 Line Inspection Course(STP)</td>
+                        <td>2 Weeks</td>
                     </tr>
                     <tr>
                         <th scope="row">19</th>
-                        <td> ATPL</td>
-                        <td> Airline Transport Pilot Licence</td>
-                        <td> 10 Weeks</td>
+                        <td >HC</td>
+                        <td> Helicopter Conversion Course</td>
+                        <td>2 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">20</th>
+                        <td >AF</td>
+                        <td> Aircraft Fuelling Course</td>
+                        <td>5 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">21</th>
+                        <td >AWB</td>
+                        <td> Aircraft Weight and Balance Course</td>
+                        <td>5 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">22</th>
+                        <td >WMT-(MOCNC)</td>
+                        <td> Workshop Machine Tools Course (Manually Operated and Computer Numerically Contrelled)</td>
+                        <td>5 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">23</th>
+                        <td> ABMR</td>
+                        <td> Aircraft Battery Maintenance Refresher Course</td>
+                        <td>4 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">24</th>
+                        <td> AFCS</td>
+                        <td> Automatic Flight Control System Course</td>
+                        <td>3 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">25</th>
+                        <td> ASR</td>
+                        <td> Avionics System Refresher Course</td>
+                        <td>5 Weeks</td>
                     </tr>
 
                     <tr>
-                        <th scope="row">20</th>
-                        <td> CNS DTI</td>
-                        <td> USE OF CNS DIAGNOSTICS/TEST INSTRUMENTS</td>
-                        <td> 1 Weeks</td>
+                        <th scope="row">26</th>
+                        <td>ASR </td>
+                        <td>Airframe System Refresher Course</td>
+                        <td>2 Weeks</td>
                     </tr>
-                    
+                    <tr>
+                        <th scope="row">27</th>
+                        <td> ITCT</td>
+                        <td>Intermediate Technician Certificate Training</td>
+                        <td>2 Weeks</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">28</th>
+                        <td>GEHOT</td>
+                        <td>Ground Equipment Handling Operation Training</td>
+                        <td>24 Weeks</td>
+                    </tr>
+
                 </tbody>
             </table>
         </div>
+
+        
     </section>
+
+
     <!-- Footer -->
     <footer class="footer-section">
         <div class="container">

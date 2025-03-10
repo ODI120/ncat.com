@@ -102,7 +102,7 @@
                     <h2>Departments in AME School</h2>
                 </div>
                 <div class="row">
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
                             <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
@@ -110,7 +110,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
                             <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
@@ -118,7 +118,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
                             <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
@@ -126,7 +126,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-4 card-hold">
                         <div class="card feature-card">
                             <img src="NCAT/SIM_BUILDING.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
@@ -331,9 +331,9 @@
 
                 <div class="row">
                     
-                    <div class="col-md-6 col-lg-4 card-hold">
-                        <div class="card feature-card">
-                            <img src="NCAT/ncat-ate.jpg" class="card-img-top" alt="Program 1">
+                    <div class="col-md-6 col-lg-4 card-hold subtle">
+                        <div class="card feature-card subtle">
+                            <img src="facilities/Ame.png" class="card-img-top" alt="Program 1">
                             <div class="card-body">
                                 <h5 class="card-title">N.D Aircraft Maintenance Engineering </h5>
                                 <p class="card-text">Comprehensive training programs for aspiring pilots.</p>
@@ -342,8 +342,8 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 card-hold">
-                        <div class="card feature-card">
-                            <img src="NCAT/ncat-ate.jpg" class="card-img-top" alt="Program 2">
+                        <div class="card feature-card subtle">
+                            <img src="facilities/Ame.png" class="card-img-top" alt="Program 2">
                             <div class="card-body">
                                 <h5 class="card-title">HND Aircraft Maintenance Engineering (AIRFRAME AND POWERPLANT) </h5>
                                 <p class="card-text">Top-notch engineering courses for aviation professionals.</p>
@@ -352,8 +352,8 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 card-hold">
-                        <div class="card feature-card">
-                            <img src="NCAT/ncat-ate.jpg" class="card-img-top" alt="Program 3">
+                        <div class="card feature-card subtle">
+                            <img src="facilities/Ame.png" class="card-img-top" alt="Program 3">
                             <div class="card-body">
                                 <h5 class="card-title">HND Aircraft Maintenance  Engineering (AVIONICS)</h5>
                                 <p class="card-text">Leadership and management training for the aviation industry.</p>

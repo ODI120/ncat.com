@@ -253,7 +253,7 @@
                        <h1>Rich history of NCAT</h1>
                         <p>The Nigeria College of Aviation Technology (NCAT), located in Zaria, Kaduna State, is a premier aviation training institution in Nigeria. Established in 1964, it aims to provide training for both Nigerian and international aviation personnel, including pilots, air traffic controllers, aircraft maintenance engineers, and other aviation professionals.
                         </p>
-                        <a href="History.html" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a>
+                        <a href="History.php" class=" btn btn-general"> See More <img src="image/plane-png.png" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -271,7 +271,7 @@
                        <img src="image/icaoplus.png" alt="">
                         <p>For 60 years, the Nigeria College of Aviation Technology (NCAT) has been at the forefront of aviation education and training. With a rich history, numerous achievements, and state-of-the-art facilities, NCAT continues to shape the future of the aviation industry. Join us in celebrating our 60th anniversary and explore the remarkable journey of NCAT.
                         </p>
-                        <a href="#" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a>
+                        <!-- <a href="#" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a> -->
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 common ">
@@ -301,7 +301,7 @@
                        <h1>Explore the heritage of NCAT.</h1>
                         <p>The heritage of NCAT is a story of vision, dedication, and achievement. It is a testament to what can be accomplished with a commitment to excellence and a passion for aviation. As we celebrate 60 years of NCAT, we look forward to many more years of soaring high and reaching new horizons.
                         </p>
-                        <a href="#" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a>
+                        <!-- <a href="#" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a> -->
                     </div>
                 </div>
             </div>
@@ -322,7 +322,7 @@
                        <h1>NCAT Recognition</h1>
                         <p>The Nigeria College of Aviation Technology (NCAT) is widely recognized as a leading institution for aviation training in Africa and beyond. Established in 1964, NCAT has consistently maintained high standards of training and has earned several prestigious recognitions and accreditations over the years. Here are some key aspects of NCAT's recognition
                         </p>
-                        <a href="#" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a>
+                        <!-- <a href="#" class=" btn btn-general">Learn More <img src="image/plane-png.png" alt=""></a> -->
                     </div>
                 </div>
 
@@ -373,7 +373,7 @@
                         <div class="card-content">
                             <h5>A.M.E School.</h5>
                             <p>Gear up for a high-flying career in aircraft maintenance excellence.</p>
-                            <a href="Ames.php" class="btn">Learn More</a>
+                            <a href="Ame.php" class="btn">Learn More</a>
                         </div> 
                     </div>
                 </div>
@@ -383,7 +383,7 @@
                         <div class="card-content">
                             <h5>Aviation Mgmt schl.</h5>
                             <p>Are you ready to take flight in the exciting world of aviation management?</p>
-                            <a href="Ames.php" class="btn">Learn More</a>
+                            <a href="Ams.php" class="btn">Learn More</a>
                         </div>
                     </div>
                 </div>

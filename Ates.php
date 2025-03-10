@@ -321,7 +321,7 @@
                 <div class="row">
                     
                     <div class="col-md-6 col-lg-4">
-                        <div class="card feature-card">
+                        <div class="card feature-card subtle">
                             <img src="NCAT/ncat-ate.jpg" class="card-img-top" alt="Program 1">
                             <div class="card-body">
                                 <h5 class="card-title">ND Elect/Elect</h5>
