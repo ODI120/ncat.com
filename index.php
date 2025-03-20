@@ -511,7 +511,7 @@
                                     <div><img src="NCAT/inside-sim2.png" alt=""></div>
                                 </div>
                                 <div class="col-sm-12 col-md-6 col-lg-6">
-                                    <div><img src="NCAT/ULTRA MODERN AUDITORIUM COMPLEX.png" alt=""></div>
+                                    <div><img src="facilities/ULTRA MODERN AUDITORIUM COMPLEX.png" alt=""></div>
                                 </div>
                             </div>
                         </div>
